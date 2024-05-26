@@ -1,0 +1,7 @@
+
+project {
+  name: "core";
+  description: "Example Snowball Library!";
+  version: "0.1.0";
+  type: "lib";
+};  
